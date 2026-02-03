@@ -175,5 +175,6 @@ ui/ # Lightweight internal interface
 - Focus on correctness, measurement, and system design
 
 ## UI SCREENSHOT
-<img width="1920" height="1080" alt="Screenshot 2026-02-03 201412" src="https://github.com/user-attachments/assets/26c3fc2f-ff5a-40f8-932e-fa22fd28bcf0" />
+<img width="1578" height="837" alt="image" src="https://github.com/user-attachments/assets/b74062d7-8a6b-499f-b75b-73f74a287c01" />
+
 
