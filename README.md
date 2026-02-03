@@ -173,3 +173,7 @@ ui/ # Lightweight internal interface
 - No deep learning without justification
 - No price prediction or trading systems
 - Focus on correctness, measurement, and system design
+
+## UI SCREENSHOT
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 201412" src="https://github.com/user-attachments/assets/26c3fc2f-ff5a-40f8-932e-fa22fd28bcf0" />
+
