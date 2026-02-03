@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (DO NOT COMMIT)
+data/
+*.csv
+*.parquet
+
+# IDE / tools
+.vscode/
+.streamlit/
+.env
